@@ -1,0 +1,16 @@
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.csproj.AssemblyReference.cache
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.AssemblyInfoInputs.cache
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.AssemblyInfo.cs
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.csproj.CoreCompileInputs.cache
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\cwiczenia-1-wogyfikacja.exe
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\cwiczenia-1-wogyfikacja.deps.json
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\cwiczenia-1-wogyfikacja.runtimeconfig.json
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\cwiczenia-1-wogyfikacja.runtimeconfig.dev.json
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\cwiczenia-1-wogyfikacja.dll
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\ref\cwiczenia-1-wogyfikacja.dll
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\bin\Debug\net5.0\cwiczenia-1-wogyfikacja.pdb
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.dll
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\ref\cwiczenia-1-wogyfikacja.dll
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.pdb
+C:\Users\elwir\OneDrive\Dokumenty\APBD\cwiczenia-1-wogyfikacja\obj\Debug\net5.0\cwiczenia-1-wogyfikacja.genruntimeconfig.cache
